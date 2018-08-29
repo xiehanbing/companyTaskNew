@@ -1,0 +1,12 @@
+C:\Users\26871\Desktop\Net基础知识回顾\EnumExcly\EnumExcly\bin\Debug\EnumExcly.exe.config
+C:\Users\26871\Desktop\Net基础知识回顾\EnumExcly\EnumExcly\bin\Debug\EnumExcly.exe
+C:\Users\26871\Desktop\Net基础知识回顾\EnumExcly\EnumExcly\bin\Debug\EnumExcly.pdb
+C:\Users\26871\Desktop\Net基础知识回顾\EnumExcly\EnumExcly\obj\Debug\EnumExcly.csprojResolveAssemblyReference.cache
+C:\Users\26871\Desktop\Net基础知识回顾\EnumExcly\EnumExcly\obj\Debug\EnumExcly.exe
+C:\Users\26871\Desktop\Net基础知识回顾\EnumExcly\EnumExcly\obj\Debug\EnumExcly.pdb
+E:\桌面文档\Net基础知识回顾\EnumExcly\EnumExcly\bin\Debug\EnumExcly.exe.config
+E:\桌面文档\Net基础知识回顾\EnumExcly\EnumExcly\obj\Debug\EnumExcly.exe
+E:\桌面文档\Net基础知识回顾\EnumExcly\EnumExcly\obj\Debug\EnumExcly.pdb
+E:\桌面文档\Net基础知识回顾\EnumExcly\EnumExcly\bin\Debug\EnumExcly.exe
+E:\桌面文档\Net基础知识回顾\EnumExcly\EnumExcly\bin\Debug\EnumExcly.pdb
+E:\桌面文档\Net基础知识回顾\EnumExcly\EnumExcly\obj\Debug\EnumExcly.csprojResolveAssemblyReference.cache
